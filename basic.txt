@@ -1,1 +1,5 @@
-updating to commit to github
+my computer wont "validate" the connection so I had to download git for windows and use it. I tried lots of different fixes via git bash first, but none of them would work. 
+
+I used vi to update my documents through git bash. 
+
+I tried all sorts of different methods of committing to github... none would go. This took me far longer than it should have due to system issues.
